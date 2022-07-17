@@ -2,7 +2,7 @@
 My MPCNC Primo confid files for Fluidnc and associated macros! 
 
 <p align="center"><img src="/Primo v3 30deg base v50.png"/></p>
-
+<p align="center"><img src="/ESP-32-pinout-NewTech.jpg"/></p>
 # Authors
 * NEWTech-Creative * **Myles Newton** [GitHub](https://github.com/NEWTech-Creative) [YouTube](https://www.youtube.com/channel/UCROCWhGcdRSwRNmuOSTrljg)
 
